@@ -177,7 +177,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tiffany/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/xiaomi/tiffany/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/xiaomi/tiffany/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
-    vendor/xiaomi/tiffany/proprietary/lib/hw/lights.msm8953.so:system/lib/hw/lights.msm8953.so \
     vendor/xiaomi/tiffany/proprietary/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/tiffany/proprietary/lib/libMiCameraHal.so:system/lib/libMiCameraHal.so \
     vendor/xiaomi/tiffany/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
@@ -195,20 +194,22 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tiffany/proprietary/lib/libmorphohht4.0.so:system/lib/libmorphohht4.0.so \
     vendor/xiaomi/tiffany/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/xiaomi/tiffany/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
+    vendor/xiaomi/tiffany/proprietary/lib/libteeclientjni.so:system/lib/libteeclientjni.so \
     vendor/xiaomi/tiffany/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/xiaomi/tiffany/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/tiffany/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/xiaomi/tiffany/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/tiffany/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
     vendor/xiaomi/tiffany/proprietary/lib64/hw/gf_fingerprint.default.so:system/lib64/hw/gf_fingerprint.default.so \
-    vendor/xiaomi/tiffany/proprietary/lib64/hw/lights.msm8953.so:system/lib64/hw/lights.msm8953.so \
     vendor/xiaomi/tiffany/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
+    vendor/xiaomi/tiffany/proprietary/lib64/libdhcpcd.so:system/lib64/libdhcpcd.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libgf_algo.so:system/lib64/libgf_algo.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libgoodixfingerprintd_binder.so:system/lib64/libgoodixfingerprintd_binder.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libstagefright_soft_flacdec.so:system/lib64/libstagefright_soft_flacdec.so \
+    vendor/xiaomi/tiffany/proprietary/lib64/libteeclientjni.so:system/lib64/libteeclientjni.so \
     vendor/xiaomi/tiffany/proprietary/lib64/libvpplibrary.so:system/lib64/libvpplibrary.so \
     vendor/xiaomi/tiffany/proprietary/vendor/bin/mm-pp-dpps:system/vendor/bin/mm-pp-dpps \
     vendor/xiaomi/tiffany/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
